@@ -1791,11 +1791,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ychan\\Documents\\DEV\\csharp\\my_app\\my_app.csproj",
+      "projectUniqueName": "C:\\Users\\ychan\\Documents\\DEV\\csharp\\ShakeHUB\\my_app.csproj",
       "projectName": "my_app",
-      "projectPath": "C:\\Users\\ychan\\Documents\\DEV\\csharp\\my_app\\my_app.csproj",
+      "projectPath": "C:\\Users\\ychan\\Documents\\DEV\\csharp\\ShakeHUB\\my_app.csproj",
       "packagesPath": "C:\\Users\\ychan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ychan\\Documents\\DEV\\csharp\\my_app\\obj\\",
+      "outputPath": "C:\\Users\\ychan\\Documents\\DEV\\csharp\\ShakeHUB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ychan\\AppData\\Roaming\\NuGet\\NuGet.Config"
