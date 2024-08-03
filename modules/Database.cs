@@ -1,4 +1,6 @@
+using Microsoft.Extensions.Configuration;
 using MySql.Data.MySqlClient;
+
 namespace Modules
 {
     public class Database
